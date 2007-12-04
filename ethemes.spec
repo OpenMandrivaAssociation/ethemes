@@ -1,6 +1,6 @@
 Name:		ethemes
 Version:	1.1
-Release:	12mdk
+Release:	 %mkrel 12
 License:	GPL
 Summary:	Themes for Enlightenment
 Group:		Graphical desktop/Enlightenment

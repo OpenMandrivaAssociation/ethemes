@@ -7,7 +7,6 @@ Group:		Graphical desktop/Enlightenment
 
 Source:		ethemes-%{version}.tar.bz2
 
-Icon:		ethemes-logo.xpm
 BuildRoot:	%_tmppath/%name-%version-%release-root
 Requires:	enlightenment >= 0.16
 BuildArchitectures: noarch

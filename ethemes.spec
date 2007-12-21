@@ -7,6 +7,7 @@ Group:		Graphical desktop/Enlightenment
 
 Source:		ethemes-%{version}.tar.bz2
 
+BuildRoot:	%_tmppath/%name-%version-%release-root
 Requires:	enlightenment >= 0.16
 BuildArchitectures: noarch
 URL:		http://e.themes.org/

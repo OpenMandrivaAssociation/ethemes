@@ -1,6 +1,6 @@
 Name:		ethemes
 Version:	1.1
-Release:	 %mkrel 16
+Release:	 17
 License:	GPL
 Summary:	Themes for Enlightenment
 Group:		Graphical desktop/Enlightenment
